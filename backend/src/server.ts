@@ -12,9 +12,12 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://anyware-task-j7sl.vercel.app'],
+  origin: [
+    'http://localhost:3000',
+    'https://anyware-task-j7sl.vercel.app',
+  ],
+  credentials: true,
 }));
 app.use(express.json());
 
