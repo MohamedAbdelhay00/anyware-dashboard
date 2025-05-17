@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Anyware Software",
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "welcome": "Welcome to Anyware Software",
+    "description": "A complete learning management system",
+    "loginToAccess": "Login to access the dashboard"
+  },
+  "dashboard": {
+    "examTime": "EXAMS TIME",
+    "examDescription": "Here we are, Are you ready to fight? Don't worry, we prepared some tips to be ready for your exams.",
+    "quote": "Nothing happens until something moves - Albert Einstein",
+    "viewExamsTips": "View exams tips",
+    "announcements": "Announcements",
+    "whatsDue": "What's due",
+    "startQuiz": "Start Quiz",
+    "solveAssignment": "Solve Assignment"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "schedule": "Schedule",
+    "courses": "Courses",
+    "gradebook": "Gradebook",
+    "performance": "Performance",
+    "announcement": "Announcement",
+    "adminSection": "Admin",
+    "manageAnnouncements": "Manage Announcements",
+    "manageQuizzes": "Manage Quizzes"
+  },
+  "common": {
+    "actions": "Actions",
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "announcements": {
+    "manage": "Manage Announcements",
+    "add": "Add Announcement",
+    "addNew": "Add New Announcement",
+    "editExisting": "Edit Announcement",
+    "title": "Title",
+    "content": "Content",
+    "author": "Author",
+    "subject": "Subject",
+    "confirmDelete": "Confirm Delete",
+    "deleteWarning": "Are you sure you want to delete this announcement? This action cannot be undone."
+  },
+  "quizzes": {
+    "manage": "Manage Quizzes",
+    "add": "Add Quiz",
+    "addNew": "Add New Quiz",
+    "editExisting": "Edit Quiz",
+    "title": "Title",
+    "course": "Course",
+    "topic": "Topic",
+    "dueDate": "Due Date",
+    "confirmDelete": "Confirm Delete",
+    "deleteWarning": "Are you sure you want to delete this quiz? This action cannot be undone."
+  }
+} 
