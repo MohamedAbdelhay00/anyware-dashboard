@@ -15,7 +15,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://anyware-task-kappa.vercel.app/',
+    'https://anyware-task-kappa.vercel.app',
   ],
   credentials: true,
 }));
